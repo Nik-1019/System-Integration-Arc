@@ -1,0 +1,1 @@
+[2025-07-05 17:16:06] [LOG] KNIFE detected at position: (1350,901) to (1464,1074)

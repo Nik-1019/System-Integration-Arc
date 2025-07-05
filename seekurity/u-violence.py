@@ -11,7 +11,7 @@ import queue
 import os
 
 # === CONFIGURATION ===
-MODEL_PATH = r"yolov8s.pt"  # Use a lighter model for speed
+MODEL_PATH = r"bestv8m.pt"  # Use a lighter model for speed
 RTSP_URL = "rtsp://seekurity:191001@192.168.1.26/stream1"
 CONFIDENCE_THRESHOLD = 0.25
 MAX_HISTORY = 10

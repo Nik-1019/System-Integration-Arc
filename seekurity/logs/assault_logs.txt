@@ -1,0 +1,1 @@
+[2025-07-05 17:14:38] [LOG] ASSAULT detected at position: (743,317) to (1800,1071)
